@@ -71,5 +71,7 @@ List of 30 Programms:
 30. Check whether an integer is odd or even using simple if structure.                                             Program 30 /Question No 30.cpp
 
    How to Run a C++ Code:
+   
     g++ Question No 1.cpp -o Question No 1
+    
 ./Question No 1
