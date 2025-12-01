@@ -74,4 +74,4 @@ List of 30 Programms:
    
     g++ Question No 1.cpp -o Question No 1
     
-     ./Question No 1
+        ./Question No 1
